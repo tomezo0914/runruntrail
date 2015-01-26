@@ -1,0 +1,5 @@
+# Ignore secret files.
+wp-config.php
+
+# Ignore and more.
+.DS_Store
