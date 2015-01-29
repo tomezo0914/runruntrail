@@ -1,0 +1,24 @@
+===================================
+zeeFlow Changelog
+===================================
+
+Version 1.0.3
+-----------------------------------
+[added] new theme options layout
+[added] span tags to frontpage category titles
+[changed] embed google fonts with protocal relative url
+[fixed] center aligned images
+[fixed] frontpage template load more button issue
+
+Version 1.0.2
+-----------------------------------
+[added] featured image header for pages
+[fixed] logo and widget overflow issue
+
+Version 1.0.1
+-----------------------------------
+[added] unique name for theme options array in the database
+
+Version 1.0
+-----------------------------------
+Final Version

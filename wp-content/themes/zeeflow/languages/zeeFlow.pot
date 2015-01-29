@@ -1,0 +1,890 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zeeFlow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-09 17:10+0100\n"
+"PO-Revision-Date: 2013-09-09 17:11+0100\n"
+"Last-Translator: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"Language-Team: ThemeZee <contact@themezee.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: 404.php:9
+msgid "404 Error: Not found"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"The page you trying to reach does not exist, or has been moved. Please use "
+"the menus or the search box to find what you are looking for"
+msgstr ""
+
+#: 404.php:14
+msgid "Search"
+msgstr ""
+
+#: 404.php:17 includes/widgets/widget-tabbed.php:274
+msgid "Recent Posts"
+msgstr ""
+
+#: 404.php:27 template-sitemap.php:37 includes/widgets/widget-tabbed.php:271
+msgid "Pages"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:10
+msgid "F Y"
+msgstr ""
+
+#: archive.php:12 template-sitemap.php:47
+#: includes/widgets/widget-tabbed.php:267
+msgid "Archives"
+msgstr ""
+
+#: author.php:12
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:8
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:13
+msgid "Enter password to view comments."
+msgstr ""
+
+#: comments.php:23 includes/template-tags.php:58
+#: includes/widgets/widget-popular-posts.php:71
+#: includes/widgets/widget-recent-posts.php:70
+msgid "One comment"
+msgstr ""
+
+#: comments.php:23 includes/template-tags.php:58
+#: includes/widgets/widget-popular-posts.php:71
+#: includes/widgets/widget-recent-posts.php:70
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: functions.php:103
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:137
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:139
+msgid ""
+"Appears on posts and also pages (in case Sidebar Pages has no widgets) "
+"except frontpage/fullwidth template."
+msgstr ""
+
+#: functions.php:146
+msgid "Sidebar Pages"
+msgstr ""
+
+#: functions.php:148
+msgid ""
+"Appears on static pages only. Leave this widget area empty to use Main "
+"Sidebar on pages."
+msgstr ""
+
+#: functions.php:204
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:218
+msgid "zeeFlow Theme"
+msgstr ""
+
+#: functions.php:256
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:257 functions.php:277
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:268
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:272
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:276
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: image.php:22
+msgid "Previous"
+msgstr ""
+
+#: image.php:23
+msgid "Next"
+msgstr ""
+
+#: image.php:25
+msgid "Return to Gallery"
+msgstr ""
+
+#: image.php:26
+msgid "Return to"
+msgstr ""
+
+#: loop-content.php:11 loop-frontpage.php:16 loop.php:16
+#: includes/template-tags.php:207 includes/template-tags.php:474
+msgid "Read more"
+msgstr ""
+
+#: search.php:9 search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:29
+msgid ""
+"No matches. Please try again, or use the navigation menus to find what you "
+"search for."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: sidebar.php:20
+msgid "Widget Area"
+msgstr ""
+
+#: tag.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-sitemap.php:26
+msgid "Latest Posts"
+msgstr ""
+
+#: template-sitemap.php:42 includes/widgets/widget-tabbed.php:268
+msgid "Categories"
+msgstr ""
+
+#: template-sitemap.php:52
+msgid "Posts by Category"
+msgstr ""
+
+#: template-sitemap.php:55
+#: includes/options/settings/settings-frontpage.php:115
+#: includes/options/settings/settings-frontpage.php:125
+#: includes/options/settings/settings-frontpage.php:143
+#: includes/options/settings/settings-frontpage.php:153
+msgid "Category"
+msgstr ""
+
+#: includes/template-tags.php:50
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/template-tags.php:58
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/template-tags.php:62
+msgid "Edit Post"
+msgstr ""
+
+#: includes/template-tags.php:143
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: includes/template-tags.php:144
+msgid "Recent Entries &raquo;"
+msgstr ""
+
+#: includes/template-tags.php:298 includes/template-tags.php:372
+#: includes/template-tags.php:407
+#, php-format
+msgid "Latest in %s"
+msgstr ""
+
+#: includes/customization/custom-jscript.php:18
+msgid "Menu"
+msgstr ""
+
+#: includes/customization/custom-jscript.php:76
+msgid "Load More Posts"
+msgstr ""
+
+#: includes/customization/custom-jscript.php:77
+msgid "Loading posts..."
+msgstr ""
+
+#: includes/customization/custom-jscript.php:78
+msgid "No more posts to load."
+msgstr ""
+
+#: includes/options/options-framework.php:17
+#: includes/options/options-framework.php:71
+msgid "Theme Options"
+msgstr ""
+
+#: includes/options/options-framework.php:43
+msgid "Use this Image"
+msgstr ""
+
+#: includes/options/options-framework.php:75
+msgid "Theme Options successfully updated."
+msgstr ""
+
+#: includes/options/options-framework.php:101
+msgid "Save Changes"
+msgstr ""
+
+#: includes/options/options-framework.php:133
+#: includes/options/options-framework.php:135
+msgid "Welcome"
+msgstr ""
+
+#: includes/options/options-framework.php:283
+msgid "Upload Image"
+msgstr ""
+
+#: includes/options/options-setup.php:27
+msgid "General"
+msgstr ""
+
+#: includes/options/options-setup.php:32
+msgid "Colors"
+msgstr ""
+
+#: includes/options/options-setup.php:37
+msgid "Front Page"
+msgstr ""
+
+#: includes/options/options-setup.php:51
+msgid "Theme Data"
+msgstr ""
+
+#: includes/options/options-setup.php:53
+msgid "Name"
+msgstr ""
+
+#: includes/options/options-setup.php:54
+msgid "Version"
+msgstr ""
+
+#: includes/options/options-setup.php:55
+msgid "(Changelog)"
+msgstr ""
+
+#: includes/options/options-setup.php:56
+msgid "Author"
+msgstr ""
+
+#: includes/options/options-setup.php:61
+msgid "Upgrade"
+msgstr ""
+
+#: includes/options/options-setup.php:64
+msgid "Check out the PRO Version"
+msgstr ""
+
+#: includes/options/options-setup.php:65
+msgid "Join the Theme Club and get Support"
+msgstr ""
+
+#: includes/options/options-setup.php:70
+msgid "Help to translate"
+msgstr ""
+
+#: includes/options/options-setup.php:72
+msgid ""
+"You want to use this WordPress theme in your native language? Then help out "
+"to translate it!"
+msgstr ""
+
+#: includes/options/options-setup.php:74
+msgid "Join the Online Translation Project"
+msgstr ""
+
+#: includes/options/options-setup.php:79
+msgid "Subscribe Now"
+msgstr ""
+
+#: includes/options/options-setup.php:81
+msgid ""
+"Subscribe now and get informed about each <b>Theme Release</b> from ThemeZee."
+msgstr ""
+
+#: includes/options/options-setup.php:83
+msgid "RSS Feed"
+msgstr ""
+
+#: includes/options/options-setup.php:84
+msgid "Email Subscription"
+msgstr ""
+
+#: includes/options/options-setup.php:85
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: includes/options/options-setup.php:86
+msgid "Become a Facebook Fan"
+msgstr ""
+
+#: includes/options/options-setup.php:103
+msgid "Thank you for installing this theme!"
+msgstr ""
+
+#: includes/options/options-setup.php:105
+msgid "Welcome to"
+msgstr ""
+
+#: includes/options/options-setup.php:107
+msgid ""
+"First of all, the theme options might alarm you, <b>but don't panic</b>. "
+"Everything is organized and documented well enough for you."
+msgstr ""
+
+#: includes/options/options-setup.php:112
+msgid "Want more features?"
+msgstr ""
+
+#: includes/options/options-setup.php:114
+msgid "Check out"
+msgstr ""
+
+#: includes/options/options-setup.php:115
+msgid ""
+"The <b>PRO Version</b> provide additional features to <b>customize</b> and "
+"configure your Theme."
+msgstr ""
+
+#: includes/options/options-setup.php:116
+msgid "Some Pro Features:"
+msgstr ""
+
+#: includes/options/options-setup.php:118
+msgid "+ Custom Color Management"
+msgstr ""
+
+#: includes/options/options-setup.php:119
+msgid "+ several Pro Widgets"
+msgstr ""
+
+#: includes/options/options-setup.php:120
+msgid "+ Custom Font Manager"
+msgstr ""
+
+#: includes/options/options-setup.php:121
+msgid "+ Widgetized Footer Area"
+msgstr ""
+
+#: includes/options/options-setup.php:122
+msgid "+ Header Content Area"
+msgstr ""
+
+#: includes/options/options-setup.php:123
+msgid "+ and a lot more.."
+msgstr ""
+
+#: includes/options/options-setup.php:125
+msgid "Learn more about the PRO Version"
+msgstr ""
+
+#: includes/options/options-setup.php:130
+msgid "Need support?"
+msgstr ""
+
+#: includes/options/options-setup.php:132
+msgid "Join the Theme Club"
+msgstr ""
+
+#: includes/options/options-setup.php:133
+msgid ""
+"You want <b>top-notch Support</b> for installing and configuring your Theme? "
+"Become a <b>Member</b>!"
+msgstr ""
+
+#: includes/options/options-setup.php:134
+msgid "Theme Club Features:"
+msgstr ""
+
+#: includes/options/options-setup.php:136
+msgid "+ access to the Support Forum at ThemeZee.com"
+msgstr ""
+
+#: includes/options/options-setup.php:137
+msgid "+ download all Pro Themes"
+msgstr ""
+
+#: includes/options/options-setup.php:138
+msgid "+ advanced online Theme Documentation"
+msgstr ""
+
+#: includes/options/options-setup.php:139
+msgid "+ fast and helpful answers to all your questions"
+msgstr ""
+
+#: includes/options/options-setup.php:141
+msgid "Learn more about the Theme Club"
+msgstr ""
+
+#: includes/options/options-setup.php:148
+msgid "Not happy with"
+msgstr ""
+
+#: includes/options/options-setup.php:150
+msgid "ThemeZee.com provide several other <b>free WordPress Themes</b>."
+msgstr ""
+
+#: includes/options/options-setup.php:151
+msgid "Click here to browse through all of my themes."
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:7
+msgid "Predefined Color Schemes"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:15
+msgid "Brown"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:16
+msgid "Gray"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:17
+msgid "Green"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:18
+msgid "Orange"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:19
+msgid "Purple"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:20
+msgid "Teal"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:21
+msgid "Red"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:22
+msgid "Standard"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:29
+msgid "Set Color Scheme"
+msgstr ""
+
+#: includes/options/settings/settings-colors.php:30
+msgid "Please select your color scheme here."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:7
+msgid "Activate Frontpage Template"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:10
+msgid "Frontpage Slider"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:13
+msgid "#1 Posts from Category (horizontal)"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:16
+msgid "#2 Posts from Category  (boxed)"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:19
+msgid "#3 Posts from two Categories (2 columns)"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:22
+msgid "#4 Posts from Category (boxed)"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:25
+msgid "Normal Blog Posts"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:47
+msgid "Turn on Frontpage Template?"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:48
+msgid ""
+"Check this to automatically display the frontpage template on HOME page. You "
+"can also manually create a page and select the \"Frontpage Template\" page "
+"template instead of using this option."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:56
+msgid "Show Frontpage Slider?"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:57
+msgid ""
+"Check this to activate the Slideshow displayed on the front page template."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:63
+msgid "Slider Animation"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:69
+msgid "Horizontal Slider"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:70
+msgid "Fade Slider"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:74
+msgid "Slider Speed"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:75
+msgid ""
+"Enter the speed of the slideshow cycling (timeout between slides), in "
+"milliseconds."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:81
+msgid "Slider Content"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:87
+msgid "Show recent posts"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:88
+msgid "Show popular posts"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:91
+msgid "Slider Category"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:92
+msgid ""
+"Select a category which posts are displayed at the featured posts slider ."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:99
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:100
+msgid "Enter the number how much posts should be displayed in the post slider."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:108
+msgid "Category Posts Title"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:109
+msgid "Enter here the title which is displayed above the category posts."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:116
+#: includes/options/settings/settings-frontpage.php:126
+#: includes/options/settings/settings-frontpage.php:144
+#: includes/options/settings/settings-frontpage.php:154
+msgid "Select the category of which posts should be displayed."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:135
+msgid "First Category "
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:136
+msgid "Select the first category of which posts should be displayed."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:163
+msgid "Display Latest Blog Posts?"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:164
+msgid ""
+"Check this to show the latest blog posts in the normal blog layout on the "
+"frontpage template"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:170
+msgid "Header Title of the latest blog posts"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:171
+msgid "Enter here the Title which is displayed above the latest blog posts."
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:177
+msgid "Latest Blog Posts Category"
+msgstr ""
+
+#: includes/options/settings/settings-frontpage.php:178
+msgid "Select the category of which the latest blog posts should be displayed."
+msgstr ""
+
+#: includes/options/settings/settings-general.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:10
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:13
+msgid "Custom CSS Code"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:24
+msgid "Logo Image"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:25
+msgid ""
+"Paste the full Image URL of your logo or click Upload Image. Leave this "
+"field blank to display the site title instead of a logo image."
+msgstr ""
+
+#: includes/options/settings/settings-general.php:31
+msgid "Show Tagline?"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:32
+msgid ""
+"Check this if you want to show your tagline(blog description) below the logo"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:40
+msgid "Sidebar Options"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:46
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:47
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:51
+msgid "Footer Content"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:52
+msgid "Enter the content which is displayed in the footer here."
+msgstr ""
+
+#: includes/options/settings/settings-general.php:60
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/options/settings/settings-general.php:61
+msgid "Place your Custom CSS code here."
+msgstr ""
+
+#: includes/widgets/widget-ads.php:6
+msgid "Show your 125x125 Banner Ads"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:52
+#: includes/widgets/widget-socialmedia.php:160
+msgid "Go to WP-Admin-> Appearance-> Theme Options to configure this widget"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:72
+#: includes/widgets/widget-popular-posts.php:120
+#: includes/widgets/widget-recent-comments.php:119
+#: includes/widgets/widget-recent-posts.php:119
+#: includes/widgets/widget-socialmedia.php:185
+#: includes/widgets/widget-tabbed.php:294
+#: includes/widgets/widget-tabbed.php:302
+#: includes/widgets/widget-tabbed.php:310
+#: includes/widgets/widget-tabbed.php:318
+#: includes/widgets/widget-tabbed.php:326
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:75
+#: includes/widgets/widget-socialmedia.php:188
+msgid "Open links in a new window"
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:8
+msgid "Show popular posts with post thumbnails."
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:71
+#: includes/widgets/widget-recent-posts.php:70
+msgid "No comments"
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:123
+#: includes/widgets/widget-recent-posts.php:122
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:127
+#: includes/widgets/widget-recent-posts.php:126
+msgid "Show Post Thumbnails?"
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:129
+#: includes/widgets/widget-recent-posts.php:128
+msgid "Excerpt length in number of words:"
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:133
+#: includes/widgets/widget-recent-posts.php:132
+msgid "Show Postmeta(Date, Comments)?"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:8
+msgid "Show recent comments with gravatar."
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:62
+msgid " on"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:68
+msgid " said:"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:122
+msgid "Number of comments to show:"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:126
+msgid "Show avatar of comment author?"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:129
+msgid "Show post title of commented post?"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:132
+msgid "Show excerpt of comment?"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:134
+msgid "Excerpt length in number of characters:"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:138
+msgid "Show date of comment?"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:8
+#: includes/widgets/widget-tabbed.php:9
+msgid "Show recent posts with post thumbnails."
+msgstr ""
+
+#: includes/widgets/widget-socialmedia.php:5
+msgid "Show your Social Media Buttons"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:147
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:147
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:148
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:148
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:149
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:149
+msgid "WordPress.org"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:194
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:269
+msgid "Links"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:270
+msgid "Meta"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:272
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:273
+msgid "Recent Comments"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:275
+msgid "Tag Cloud"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:298
+msgid "Tab 1:"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:306
+msgid "Tab 2:"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:314
+msgid "Tab 3:"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:322
+msgid "Tab 4:"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:331
+msgid "Settings for Recent/Popular Posts and Recent Comments"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:332
+msgid "Number of entries:"
+msgstr ""
+
+#: includes/widgets/widget-tabbed.php:335
+msgid "Show Thumbnails?"
+msgstr ""
