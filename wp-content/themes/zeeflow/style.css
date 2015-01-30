@@ -57,7 +57,7 @@ html {
 	font-size: 100.01%;
 }
 body {
-	font-family: 'Carme', Tahoma, Verdana, Arial;
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
 	font-size: 1.0em;
 	border: 0;
 	color: #111;
@@ -66,7 +66,7 @@ body {
 
 /* Links */
 a, a:link, a:visited{
-	color: #0088ff;
+	color: #1d71a8;
 	text-decoration: none;
 }
 a:hover, a:active {
@@ -163,7 +163,7 @@ input, textarea, select {
 #logo .site-title {
 	font-size: 3.0em;
 	font-weight: bold;
-	color: #0088ff;
+	color: #333;
 	font-family: 'Volkhov', Tahoma, Verdana, Arial;
 }
 #logo a:hover {
@@ -310,7 +310,7 @@ input, textarea, select {
 }
 .widget a:link, .widget a:visited  {
 	text-decoration: none;
-	color: #0088ff;
+	color: #1d71a8;
 }
 .widget a:hover, .widget a:active {
 	text-decoration: underline;
@@ -396,9 +396,9 @@ input, textarea, select {
 	border-bottom: 1px solid #ddd;
 }
 .page-title, .post-title {
-	font-family: 'Volkhov', Tahoma, Verdana, Arial;
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
 	font-weight: bold;
-	color: #0088ff;
+	color: #333;
 	line-height: 1.4em;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
@@ -410,11 +410,12 @@ input, textarea, select {
     font-size: 1.5em;
 }
 .post-title a:link, .post-title a:visited {
-	color: #0088ff;
+	color: #333;
 	text-decoration: none;
 }
 .post-title a:hover, .post-title a:active{
 	color: #333;
+	text-decoration: underline;
 }
 .sticky {
 	border-left: 1px solid #ddd;
@@ -490,18 +491,15 @@ input, textarea, select {
 .more-link {
 	display: inline-block;
 	margin: 0;
-	padding: 0.4em 1em;
-	text-decoration: none;
 	font-size: 0.9em;
-	background-color: #0088ff;
-	color: #fff;
 }
 .more-link:link, .more-link:visited {
-	color: #fff;
+	color: #1d71a8;
+	text-decoration: underline;
 }
 .more-link:hover, .more-link:active{
-	background-color: #303030;
-	text-decoration: none;
+	color: #1d71a8;
+	text-decoration: underline;
 }
 .postinfo .more-link {
 	padding: 0.7em 1em;
@@ -973,6 +971,10 @@ embed, iframe, object, video {
 	padding: 0;
 	margin-bottom: 2.5em;
 	/* All other Slideshow Styles in flexslider.css */
+}
+
+#frontpage-slider-wrap .slide-title {
+	font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
 }
 
 /* Front Page Category Posts Areas */
