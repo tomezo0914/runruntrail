@@ -201,7 +201,6 @@ input, textarea, select {
 	position: relative;
 	border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
-	padding: 0.5em 0;
 }
 #mainnav-menu li {
 	float:left;
@@ -1485,14 +1484,15 @@ embed, iframe, object, video {
 	}
 	#mainnav-menu li.menu-item:hover a {
 		color: #fff;
-		background: #0088ff; 
+                background: #333;
+                text-decoration: underline;
 	}
 	#mainnav-menu li.menu-item ul a:hover {
 		color: #fff;
 		background: #444;
 	}
 	#mainnav-menu li.current_page_item a, #mainnav-menu li.current-menu-item a {
-		background: #0088ff;
+                background: #333;
 		color: #fff;
 	}
 }
