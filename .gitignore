@@ -17,3 +17,4 @@ wp-content/wp-cache-config.php
 
 # Ignore and more.
 .DS_Store
+google*.html
